@@ -28,6 +28,7 @@ public class MeshApp extends Application {
         instance = this;
 
         MeshInitialize.init(this);
+        //SKC
     }
 
     @Override
